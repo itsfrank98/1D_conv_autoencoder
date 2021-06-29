@@ -1,5 +1,5 @@
 # 1D_conv_autoencoder
-Using a 1D convolutional autoencoder to reduce feature dimensionality of paintings. Then I check if the visual similarities between the paintings are kept in the new space.
+Using a 1D convolutional autoencoder to reduce the dimensionality of features extracted from paintings. Then I check if the visual similarities between the paintings are kept in the new space.
 
 ## Dataset
 https://www.kaggle.com/ikarus777/best-artworks-of-all-time
